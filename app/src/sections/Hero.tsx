@@ -23,7 +23,7 @@ export default function Hero() {
       {/* Background image with overlay */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
-        style={{ backgroundImage: 'url(/images/banner-full.jpg)' }}
+        style={{ backgroundImage: 'url(/images/ig_08ba0047c5dc6f03016a116b371f408191b80c164fbc7adb6a.png)' }}
       />
       <div className="absolute inset-0 bg-gradient-radial from-transparent via-[rgba(10,10,11,0.6)] to-[rgba(10,10,11,0.95)]" />
 
