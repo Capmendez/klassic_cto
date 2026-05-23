@@ -57,7 +57,7 @@ export default function Hero() {
           }`}
         >
           <img
-            src="/images/hero-ghost.png"
+            src="/images/ig_08ba0047c5dc6f03016a0fd46fda5481919695d817e8e6968c.png"
             alt="KLASSIC Ghost Mascot"
             className="w-[200px] md:w-[300px] h-auto drop-shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
           />

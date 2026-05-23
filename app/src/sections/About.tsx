@@ -39,7 +39,7 @@ export default function About() {
           >
             <div className="bg-[#141415] rounded-[20px] border border-[#2A2A2C] overflow-hidden">
               <img
-                src="/images/ghost-love.png"
+                src="/images/ig_08ba0047c5dc6f03016a0fd4fa46ec8191a7275faaed330b0a.png"
                 alt="KLASSIC Ghost with love expression"
                 className="w-full h-auto"
                 loading="lazy"

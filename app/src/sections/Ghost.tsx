@@ -30,7 +30,7 @@ export default function GhostSection() {
       id="ghost"
       className="relative py-[120px] md:py-[120px] py-[60px]"
       style={{
-        background: `linear-gradient(to bottom, rgba(10,10,11,0.97), rgba(10,10,11,0.97)), url(/images/banner-full.jpg)`,
+        background: `linear-gradient(to bottom, rgba(10,10,11,0.97), rgba(10,10,11,0.97)), url(/images/ig_08ba0047c5dc6f03016a0fdfebe5708191bedf736380f4944b.png)`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
@@ -63,7 +63,7 @@ export default function GhostSection() {
         >
           <div className="bg-[#141415] rounded-[20px] border border-[#2A2A2C] overflow-hidden">
             <img
-              src="/images/banner-full.jpg"
+              src="/images/ig_08ba0047c5dc6f03016a0fdfebe5708191bedf736380f4944b.png"
               alt="KLASSIC Ghost characters in graffiti style"
               className="w-full h-auto"
               loading="lazy"
@@ -80,7 +80,7 @@ export default function GhostSection() {
         >
           <div className="bg-[#141415] rounded-[20px] border border-[#2A2A2C] overflow-hidden max-w-[500px]">
             <img
-              src="/images/ghost-transform.png"
+              src="/images/ig_08ba0047c5dc6f03016a116a94e5a8819195bf4c02ad05ac26.png"
               alt="Ghost transformation from faceless to king"
               className="w-full h-auto"
               loading="lazy"
