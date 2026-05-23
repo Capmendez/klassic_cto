@@ -1,14 +1,14 @@
 import { useIntersectionObserver } from '../hooks/useIntersectionObserver';
 
 const memes = [
-  { src: '/images/meme-crown.jpg', caption: 'Claim the Crown 👑' },
-  { src: '/images/meme-diamond.jpg', caption: 'Diamond Hands 💎' },
-  { src: '/images/meme-throne.jpg', caption: 'King of ETH' },
-  { src: '/images/meme-party.jpg', caption: 'Ghost Party 🎉' },
-  { src: '/images/meme-dab.jpg', caption: 'Dab King' },
-  { src: '/images/meme-wink.jpg', caption: 'You Got This ✨' },
-  { src: '/images/meme-sleep.jpg', caption: 'Sweet ETH Dreams 😴' },
-  { src: '/images/ghost-angry.png', caption: 'Battle Mode 🔥' },
+  { src: '/images/ig_08ba0047c5dc6f03016a0fd46fda5481919695d817e8e6968c.png', caption: 'Klassic Vibe ✨' },
+  { src: '/images/ig_08ba0047c5dc6f03016a0fd4fa46ec8191a7275faaed330b0a.png', caption: 'Hold Tight 💎' },
+  { src: '/images/ig_08ba0047c5dc6f03016a0fdfebe5708191bedf736380f4944b.png', caption: 'Ghost Power 👑' },
+  { src: '/images/ig_08ba0047c5dc6f03016a116a94e5a8819195bf4c02ad05ac26.png', caption: 'Community Spirit 👻' },
+  { src: '/images/ig_08ba0047c5dc6f03016a116b371f408191b80c164fbc7adb6a.png', caption: 'To the Moon 🚀' },
+  { src: '/images/ig_08ba0047c5dc6f03016a116b9923b8819189115d5be4274691.png', caption: 'Ghost Mode 🕶️' },
+  { src: '/images/ig_08ba0047c5dc6f03016a116bfbcf9c81919dc79a402c79fd7d.png', caption: 'Crypto Life 📈' },
+  { src: '/images/ig_08ba0047c5dc6f03016a116c6484a881918d06f606f0d1a631.png', caption: 'Victory Dance 🏆' },
 ];
 
 export default function Memes() {
